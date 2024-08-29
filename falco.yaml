@@ -34,6 +34,7 @@ environment:
       - icu-dev
       - jq-dev
       - jsoncpp-dev
+      - libprotobuf-dev
       - libbpf-dev
       - libcurl-openssl4
       - libelf
